@@ -1,22 +1,7 @@
 {
   "GLOBAL": {
-    "TOKEN": "ODExMjQzMzY2Nzk1ODM3NDQy.YCvXQg.QK-sRuYEieDZ4FuwYogzhJnS5AI",
+    "TOKEN": "TOKEN",
     "PREFIX": "!"
   },
-  "GUILDS": {
-    "513367943652835328": {
-      "TOGGLED": "ON",
-      "TOGGLEPM": "OFF",
-      "OUTPUT": "799202156771147796",
-      "ID": "7",
-      "PREFIX": "!"
-    },
-    "819499528813674497": {
-      "TOGGLED": "ON",
-      "TOGGLEPM": "OFF",
-      "OUTPUT": "819502729155575839",
-      "ID": "2",
-      "PREFIX": "!"
-    }
-  }
+  "GUILDS": {}
 }
